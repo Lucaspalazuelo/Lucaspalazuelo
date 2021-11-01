@@ -2,4 +2,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspalazuelo&langs_count=8">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucaspalazuelo">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_plz">
